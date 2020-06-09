@@ -285,5 +285,7 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> for <a href="https://jekyllrb.com/" target="_blank" rel="nofollow"><img src="favicon.ico" width="65" height="25"/></a> and <a href="https://github.com/" target="_blank" rel="nofollow"><img src="github.ico" width="65" height="25"/></a> by 
+    <a href="https://sounakdey.github.io" target="_blank" rel="nofollow">Sounak Dey</a>
+# <a href="https://sounakdey.github.io/" target="_blank" rel="nofollow"><img src="sounak.ico" width="65" height="65"/></a> 
