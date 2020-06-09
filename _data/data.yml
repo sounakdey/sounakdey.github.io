@@ -173,24 +173,95 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of my publications in this section in different domains. 
+      Computer Vision, Pattern Recognition, Instrumentation and Control.
     papers:
-      - title: The Art of Computer Programming
+      - title: Fine-grained Image Classification and Retrieval by Combining Visual and Locally Pooled Textual Features
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Andres Mafla, Sounak Dey, Ali Furkan Biten, Lluis Gomez, Dimosthenis Karatzas
+        conference: Winter Application in Computer Vision(WACV), 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Evaluation of word spotting under improper segmentation scenario
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Sounak Dey, Anguelos Nicolaou, Josep Lladós, Umapada Pal
+        conference: International Journal on Document Analysis and Research (IJDAR), 2019
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Doodle to search: Practical zero-shot sketch-based image retrieval"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song
+        conference: Computer Vision and Pattern Recognition (CVPR) (ORAL), 2019
+
+      - title: "Aligning Salient Objects to Queries: A Multi-modal and Multi-object Image Retrieval Framework"
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Suman K Ghosh, Ernest Valveny, Josep Lladós, Umapada Pal
+        conference: Asian Conference on Computer Vision (ACCV), 2018
+
+      - title: Non-deterministic Behavior of Ranking-based Metrics when Evaluating Embeddings
+        link: "#"
+        authors: Anguelos Nicolaou, Sounak Dey, Vincent Christlein, Andreas Maier, Dimosthenis Karatzas
+        conference: International Workshop on Reproducible Research in Pattern Recognition (ICPR), 2018
+
+      - title: Learning Cross-Modal Deep Embeddings for Multi-Object Image Retrieval using Text and Sketch
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Suman K Ghosh, Ernest Valveny, Josep Lladós, Umapada Pal
+        conference: International Conference on Pattern Recognition (ICPR), 2018
+
+      - title: Bringing Back Hieroglyph
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Josep Lladós, Umapada Pal
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Shallow neural network model for hand-drawn symbol recognition in multi-writer scenario
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, Josep Lladós, Alicia Fornés, Umapada Pal
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Handwriting recognition by attribute embedding and recurrent neural networks
+        link: "#"
+        authors: J Ignacio Toledo, Sounak Dey, Alicia Fornés, Josep Lladós
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Improving Information Retrieval in Multiwriter Scenario by Exploiting the Similarity Graph of Document Terms
+        link: "#"
+        authors: Pau Riba, Anjan Dutta, Sounak Dey, Josep Lladós, Alicia Fornés
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: Improving Information Retrieval in Multiwriter Scenario by Exploiting the Similarity Graph of Document Terms
+        link: "#"
+        authors: Pau Riba, Anjan Dutta, Sounak Dey, Josep Lladós, Alicia Fornés
+        conference: 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), 2017
+
+      - title: "Signet: Convolutional siamese network for writer independent offline signature verification"
+        link: "#"
+        authors: Sounak Dey, Anjan Dutta, J Ignacio Toledo, Suman K Ghosh, Josep Lladós, Umapada Pal
+        conference: arXiV, 2017
+
+      - title: Script independent approach for multi-oriented text detection in scene image
+        link: "#"
+        authors: Sounak Dey, Palaiahnakote Shivakumara, KS Raghunandan, Umapada Pal, Tong Lu, G Hemantha Kumar, Chee Seng Chan
+        conference: Neurocomputing, 2017
+
+      - title: Local binary pattern for word spotting in handwritten historical document
+        link: "#"
+        authors: Sounak Dey, Anguelos Nicolaou, Josep Llados, Umapada Pal
+        conference: Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern, Recognition (SSPR), 2017
+
+      - title: Frequency-adapted crossover from para-to-dia magnetization in an Ising-like dipole-dipole model
+        link: "#"
+        authors: Nilangshu Das, P Barat, Sounak Dey, T Jayakumar
+        conference: Science Letters Journal, 2015
+
+      - title: Design of miniature coil to generate uniform magnetic field
+        link: "#"
+        authors: Nilangshu K Das, Parthasarathi Barat, Sounak Dey, Tammana Jayakumar
+        conference: Progress In Electromagnetics Research, 2014
+
+      - title: Innovative instrumentation to measure magnetic susceptibility
+        link: "#"
+        authors: Nilangshu K Das, Sounak Dey, Sarbajit Pal, Parthasarathi Barat
+        conference: IEEE Transactions on Magnetics, 2013
+
+      
 
 skills:
     title: Skills &amp; Proficiency
