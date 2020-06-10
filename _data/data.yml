@@ -23,6 +23,7 @@ sidebar:
     gitlab:
     bitbucket: Sounak
     twitter: '@d_sounak'
+    reddit: 'sounak_dey'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -86,63 +87,43 @@ education:
 experiences:
     - role: Research Assitant
       time: 2015 - 2016
-      institute: CVC Universitat Autonoma de Barcelona, Spain
+      company: CVC Universitat Autonoma de Barcelona, Spain
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Developed various algorithms for Document Image Analysis, Image processing and Pattern Recognition.
+        Few mentionable works are as follows
+          - Signature Verification
+          - Word Spotting
     - role: Project Linked Personnel 
       time: 2013 - 2014
-      institute: CVPR Unit, Indian Statistical Institute, India
+      company: CVPR Unit, Indian Statistical Institute, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Took part in development of various algorithms for Computer Vision, Image processing and Pattern Recognition.
+        Few mentionable works are as follows
+          - Heat Kernel Signature
+          - Fractals
+          - Multi oriented scene text spotting in multi lingual documents
     - role: Project Linked Personnel 
       time: 2011 - 2013
-      institute: ECS, Unit Indian Statistical Institute, India
+      company: ECS, Unit Indian Statistical Institute, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          Development of stand-alone compact data logger. Study, Design and Guiding Bachelor’s Intern Student.
+          - Real-Time Atmospheric Data logger
+          - AVR architecture, NI Multisim.
     - role: Research Trainee 
       time: 2011 - 2011
-      institute: Variable Energy Cyclotron Center, Atomic Energy of India, India
+      company: Variable Energy Cyclotron Center, Atomic Energy of India, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Study, design and develop instrumentation for measurement of magnetic susceptibilty.
+        Observed Frequency-adapted crossover from para-to-dia magnetization in an Ising-like dipole-dipole a model
+          - Finite Element Analysis
+          - Genetic Algorithm
     - role: Project Engineer
       time: 2008 - 2009
       company: Enterprising Developers, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        PLC Drives and Conveyer Belts Installation, Development Standalone Drivers.
+          - Real Time Operating System
+          - Digital Signal Processing
 projects:
     title: Projects
     intro: >
