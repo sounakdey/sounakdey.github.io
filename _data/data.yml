@@ -170,8 +170,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      List of my publications in this section in different domains. 
-      Computer Vision, Pattern Recognition, Instrumentation and Control.
+      List of my publications in this section is from different domains. 
+      Computer Vision, Pattern Recognition, Material Science, Instrumentation and Control.
     papers:
       - title: Fine-grained Image Classification and Retrieval by Combining Visual and Locally Pooled Textual Features
         link: "#"
